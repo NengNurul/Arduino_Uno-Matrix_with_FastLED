@@ -1,2 +1,2 @@
-# Arduino_Uno-Matrix_with_FastLED
+# ArduinoUno-MatrixWithFastLED
 Tugas sistem digital pilihan 2
